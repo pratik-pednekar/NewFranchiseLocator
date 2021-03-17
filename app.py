@@ -1,6 +1,6 @@
 import streamlit as st
-from streamlit_folium import folium_static
 import folium
+from streamlit-folium import folium_static
 import pandas as pd
 from branca.colormap import linear
 import h3
