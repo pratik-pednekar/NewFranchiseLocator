@@ -5,7 +5,7 @@ import pandas as pd
 
 def app():
     st.write("Data")
-    st.title('WHERE DO YOU OPEN A NEW FRANCHISE?')
+    #st.title('WHERE DO YOU OPEN A NEW FRANCHISE?')
 
     st.write("The data for this work is obtained from Yelp\'s API:https://api.yelp.com/v3/businesses/search")
     st.write("For this project, NYC (minus Staten Island) is considered as the city of interest.")
