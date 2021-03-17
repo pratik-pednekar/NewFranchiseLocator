@@ -4,7 +4,7 @@ matplotlib
 folium
 numpy
 scikit-learn
-branca.colormap
+branca
 h3
 numpy
 base64
