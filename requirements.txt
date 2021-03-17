@@ -7,6 +7,4 @@ scikit-learn
 branca
 h3
 numpy
-base64
-textwrap
 
