@@ -4,3 +4,9 @@ matplotlib
 folium
 numpy
 scikit-learn
+branca.colormap
+h3
+numpy
+base64
+textwrap
+

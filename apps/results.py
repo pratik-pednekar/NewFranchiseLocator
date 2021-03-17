@@ -3,13 +3,11 @@ import pandas as pd
 import numpy as np
 from streamlit_folium import folium_static
 import h3
-import streamlit as st
-from streamlit_folium import folium_static
+
 import folium
-import pandas as pd
 from branca.colormap import linear
 import h3
-import numpy as np
+
 import base64
 import textwrap
 
