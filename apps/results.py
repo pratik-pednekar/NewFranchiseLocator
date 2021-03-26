@@ -17,6 +17,7 @@ def app():
     st.markdown('## BubbleTea location')
     #render_svg(svg_bubbletea)
     st.image("https://miro.medium.com/max/1072/1*0MFdD6_5keqFvIiEX4nrWw.jpeg")
+    
     st.write("For our base case, lets say our client wants to open a new bubble tea store in New York.")
     st.write("The ML model and app can make suggestions as to where to open the bubble tea store by finding the categories of the stores that bubble tea stores are related to and identifying locations with the related stores but no bubble tea store.")
 

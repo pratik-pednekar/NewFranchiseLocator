@@ -19,7 +19,8 @@ def app():
 
     st.write("As the age old adage goes, the most important aspect of opening a new business is....")
     #render_svg(svg_location)
-    st.image('http://www.planhillsborough.org/wp-content/uploads/2013/05/Location_signs_icon-300x199.jpg')
+    #st.image('http://www.planhillsborough.org/wp-content/uploads/2013/05/Location_signs_icon-300x199.jpg')
+    st.image("https://adamsonpt.files.wordpress.com/2019/01/location.jpg?w=397&h=265")
 
     st.write('')
     st.write('With the internet age, while things may have changed a little bit, we still visit our favorite coffee shop on the way to work, go to our favorite shopping district or mall for clothes or ring up the closest chinese restaurant for food.')
